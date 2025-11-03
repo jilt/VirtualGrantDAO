@@ -34,13 +34,3 @@ Deployed RoomMarketplace to address 0x9420467929c216d7181b2542026d4Ad353E1B216
 Linking contracts and transferring ownership...
 Set marketplace address in RentRoom contract.
 Ownership of RentRoom and RoomMarketplace transferred to TimeLock.
-
-## Permissions:
-
-Summary
-Action	  Who can perform it?  	  Why?
-List an NFT for sale/rent	  Any NFT owner	    These are core user functions, not admin functions. The contract checks for NFT ownership, not contract ownership.
-Buy or Rent an NFT	    Any user	    These are permissionless actions for platform users.
-Change the platform fees	    The DAO	    This is a privileged, administrative action controlled by the onlyOwner modifier.
-Withdraw platform fees	    The DAO	    This is also a privileged action. The collected fees belong to the DAO's treasury.
-
