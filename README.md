@@ -2,12 +2,12 @@
 Project for the mezo hackathon on encode.
 This is a governance virtual shared space created to serve the needs for a deep knowledge of each proposal's background and the understanding of a virtual decentralized ecosystem.
 
-Spaces are organized to allow meetings, chat audio and video streaming (TO-DO) using a buying/renting mechanic (erc4907) built to maintain the goverance team's effort using a fee and to filter proposals based on contribution and team to team trust.
+Spaces are organized to allow meetings, chat audio and video streaming (TO-DO) using a buying/renting mechanic (erc4907) built to maintain the governance team's effort using a fee and to filter proposals based on contribution and team to team trust.
 
-Each room is an ERC4907 NFT token allowing the owner /renter to submit a proposal for the DAO erc20 token owners to vote.
+Each room is an ERC4907 NFT token allowing the owner /renter to submit a proposal for the DAO to vote.
 The room's marketplace contract allows rooms to be bought and rented using MUSD and each team that owns or rents a room is allowed to customize it using javascript 3D objects that allow web3 DeFi interactions, like the liquidation bot that we included in the repo along with many other interchain trading bots that we may add in the future.
 
-This is a way for the team to see their investment bring forward DeFi earnings even during the phase of discussing their proposal with the dao governance team, allowing for a quieter and more clear communication.
+This is a way for each proposing team to see their investment bring forward DeFi earnings even during the phase of discussing their proposal with the DAO governance team, allowing for a quieter and more clear communication.
 
 ## Contract deployment addresses on testnet: 
 ----------------------------------------------------
